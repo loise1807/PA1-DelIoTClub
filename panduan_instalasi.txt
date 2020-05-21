@@ -1,0 +1,21 @@
+1. Pertama-tama export database nya
+
+2. Buka config.php lalu ubah "BASEURL" sesuai direktori Anda
+   Misalnya "http://localhost/proyek%20akhir/DelIoTClub_D3TI03".
+   di akhir direktori tidak ada garing "/"
+
+3. Buka admin/common/config.php lalu ubah "BASEURL" sesuai direktori Anda
+   Misalnya "http://localhost/proyek%20akhir/DelIoTClub_D3TI03".
+   di akhir direktori tidak ada garing
+
+4. Buka anggota/common/config.php lalu ubah "BASEURL" sesuai direktori Anda
+   Misalnya "http://localhost/proyek%20akhir/DelIoTClub_D3TI03".
+   di akhir direktori tidak ada garing "/"
+
+5. Lalu ubah constanta "HOST","USER","PASS","DB_NAME" sesuai server Anda dan database Anda.
+
+6. buka common->dbconfig.php
+   Atur sesuai xampp yang atau server lain yang Anda pakai.
+
+
+~Terimakasih
