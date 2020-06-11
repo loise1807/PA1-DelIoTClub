@@ -10,7 +10,7 @@
   <body>
     <nav class="nav justify-content-end bg-light">
       <div class="col-11 col-sm-11">
-        <a href="index.php">
+        <a href="<?=BASEURL;?>/anggota/index.php">
           <img src="<?= BASEURL; ?>/public/img/del.png" style="width:50px;length:50px;">
         </a>
         <h7 style ="color:black;">Institut Teknologi Del</h7>
